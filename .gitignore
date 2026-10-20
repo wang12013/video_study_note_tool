@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.devdata/
+runtime/
+dist/
+build/
+release/
+*.spec
+collection.json
+m0_*.json
+ui_*.png
+.tmp_*
+diag_perms.py
+notes_out/
+/docs/
+/note_template/
