@@ -1,0 +1,89 @@
+{
+  "deepseek": {
+    "models": [
+      200,
+      "{\"object\":\"list\",\"data\":[{\"id\":\"deepseek-flash\",\"object\":\"model\",\"owned_by\":\"deepseek\",\"name\":\"DeepSeek-V4.1-Flash\",\"context_window\":1048576,\"max_output_tokens\":393216,\"input_modalities\":[\"text\",\"image\"],\"output_modalities\":[\"text\"],\"effort\":{\"supported_levels\":[\"low\",\"high\",\"max\"],\"default_level\":\"high\"},\"api_capabilities\":{\"anthropic_messages\":{\"system_prompt_update\":\"in-history\"}}},{\"id\":\"deepseek-v4-pro\",\"object\":\"model\",\"owned_by\":\"deepseek\",\"name\":\"DeepSeek-V4-Pro\",\"context_window\":1048576,\"max_output_tokens\":393216,\"input_modalities\":[\"text\"],\"output_modalities\":[\"text\"],\"effort\":{\"supp"
+    ]
+  },
+  "dashscope": {
+    "models": [
+      200,
+      [
+        "xiaomi/mimo-v2.6-pro-ultraspeed",
+        "deepseek-v4.1-flash-1017",
+        "cmaas-qwen3.8-flash",
+        "qwen-image-2.1-pro",
+        "qwen3.8-omni-flash-realtime",
+        "stepfun/step-5-preview",
+        "glm-5.3-prime",
+        "ZHIPU/GLM-5.3-FlashX",
+        "vanchin/deepseek-v4.1-flash",
+        "qwen-audio-3.1-realtime-plus",
+        "qwen-mt-uni",
+        "qwen3.8-omni-flash",
+        "qwen3.8-livetranslate-flash-realtime",
+        "kimi/kimi-k2.8-preview",
+        "glm-5.3",
+        "deepseek-v4.1-flash",
+        "qwen3.8-max-0902",
+        "qwen3.7-text-embedding-flash",
+        "qwen3.7-text-rerank",
+        "ZHIPU/GLM-5.3-Flash",
+        "stepfun/step-3.7-flash",
+        "vanchin/deepseek-v4-pro",
+        "unisound/unisound-u2",
+        "vanchin/deepseek-v4-pro-0813",
+        "qwen3.8-flash",
+        "kimi-k3",
+        "qwen3.8-27b",
+        "ZHIPU/GLM-5.3",
+        "deepseek-v4-pro-0813",
+        "qwen3.8-2.4t-a95b",
+        "qwen-image-3.0-pro",
+        "qwen-image-3.0",
+        "qwen3.8-max",
+        "deepseek-v4-flash-0731",
+        "qwen-audio-3.0-asr-flash",
+        "qwen3.7-flash-2026-07-15",
+        "qwen3.7-flash",
+        "kimi/kimi-k3",
+        "qwen3.7-text-embedding",
+        "qwen-audio-3.0-realtime-flash",
+        "qwen-audio-3.0-realtime-plus",
+        "glm-5.2-fast-preview",
+        "kimi/kimi-k2.7-code-highspeed",
+        "xiaomi/mimo-v2.5-pro",
+        "MiniMax/MiniMax-M3",
+        "ZHIPU/GLM-5.2",
+        "qwen-image-2.0-pro-2026-06-22",
+        "test-sre-gpu-auto-handle",
+        "fun-asr-flash-2026-06-15",
+        "glm-5.2",
+        "kimi/kimi-k2.7-code",
+        "kimi-k2.7-code",
+        "sre-gpu-auto-handle",
+        "qwen3.7-max-2026-06-08",
+        "qwen3.5-ocr",
+        "qwen3.7-plus-2026-05-26",
+        "qwen3.7-plus",
+        "qwen3.7-max-2026-05-17",
+        "qwen3.7-max-preview",
+        "ZHIPU/GLM-5"
+      ]
+    ]
+  },
+  "asr": {
+    "qwen3-asr-flash": [
+      200,
+      "{\"choices\":[{\"finish_reason\":\"stop\",\"index\":0,\"message\":{\"annotations\":[{\"emotion\":\"neutral\",\"language\":\"zh\",\"type\":\"audio_info\"}],\"content\":\"呃，发这个视频呢主要就是希望大家帮忙推荐一个待办事项的 A P P。嗯，我描述一下我的一些需求啊。是这样的，就是呢，嗯，最近我在想一个呃 A P P，就是一些类似滴答这样的一些 A P P，它可以记录你的一些待办事项，然后呢它也有一个汇总的功能。那我们可以这样的理解，呃，滴答的话就是把我们每一天的各种各样的待办事项理解为一行数据一条数据，然后呢它根据这个数据我们抽象为这个明细，然后呢进行，然后比如说我当这些明细足够多的时候，比如说一周或者说一个月或者说一整年，然后进行一个汇总，对不对？然后比如说我呃这一整年里面然后呃花费在工作当中占百分之七十，然后呢生活百分之二十，对不对？然后它会呃根据我这个东西要形成一个那个叫什么呃时间的一个报表，对吧？然后呢这就是有两种能力，滴答的话，但是呢滴答的话会缺少一种呃能力，那就是它没有接入这个 A I。那这个 A I 的话，如果接入这个 A I 的话，呃我们可以设想一下，我们可以把这一个明细抽象为一行一行的数据，你可以理解为多条这样的明细就组成了一个知识库，对不对？那我们 A I 的话就可以说针对我们这一个呃知识库，然后进行对我们自己来进行一个抽象化的一个表达。那这样子的话就每次我们去问 A I 的时候，就比如说啊我这一整年当中花费呃花费呃最多的时间是在哪些事项里面，然后哪个事项是我呃工作到几点几点，对不对？就类似这样的一个表达。然后呢我想问的问题就是说，在目前在目前的 A P P 里面，呃我不清楚有没有支持我这三种能力的，所以呢我也想求助一下大家，大概就是这样的，看看大家有没有呃一些好的推荐，好吧？\",\"role\":\"assistant\"}}],\"created\":1792492871,\"id\":\"chatcmpl-c430c6c3-ef2c-97dc-b5"
+    ],
+    "qwen-asr-flash": [
+      404,
+      "{\"error\":{\"message\":\"The model `qwen-asr-flash` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"model_not_found\"},\"request_id\":\"7d4d7173-960d-95ca-82e6-69740a52300d\"}"
+    ],
+    "paraformer-realtime-v2": [
+      404,
+      "{\"error\":{\"message\":\"Unsupported model `paraformer-realtime-v2` for OpenAI compatibility mode.\",\"type\":\"invalid_request_error\",\"param\":null,\"code\":\"model_not_supported\"},\"request_id\":\"13fed063-33fb-9681-8e62-da2268fce065\"}"
+    ]
+  }
+}

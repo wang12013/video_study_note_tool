@@ -1,0 +1,8 @@
+/release/
+/docs/
+
+/.venv
+/dist
+/build
+
+/.devdata/

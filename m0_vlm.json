@@ -1,0 +1,172 @@
+[
+  {
+    "frame": "f_0001.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":1.0}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 21,
+      "total_tokens": 594,
+      "completion_tokens_details": {
+        "text_tokens": 21
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0010.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":1.0}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 21,
+      "total_tokens": 594,
+      "completion_tokens_details": {
+        "text_tokens": 21
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0019.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":1.0}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 21,
+      "total_tokens": 594,
+      "completion_tokens_details": {
+        "text_tokens": 21
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0028.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":1.0}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 21,
+      "total_tokens": 594,
+      "completion_tokens_details": {
+        "text_tokens": 21
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0037.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":1.0}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 21,
+      "total_tokens": 594,
+      "completion_tokens_details": {
+        "text_tokens": 21
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0046.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":0.98}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 22,
+      "total_tokens": 595,
+      "completion_tokens_details": {
+        "text_tokens": 22
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0055.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":0.98}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 22,
+      "total_tokens": 595,
+      "completion_tokens_details": {
+        "text_tokens": 22
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0064.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":1.0}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 21,
+      "total_tokens": 594,
+      "completion_tokens_details": {
+        "text_tokens": 21
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0073.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":1.0}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 21,
+      "total_tokens": 594,
+      "completion_tokens_details": {
+        "text_tokens": 21
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  },
+  {
+    "frame": "f_0082.jpg",
+    "content": "{\"type\":\"person\",\"page_title\":\"\",\"text\":\"\",\"layout\":\"image\",\"confidence\":1.0}",
+    "usage": {
+      "prompt_tokens": 573,
+      "completion_tokens": 21,
+      "total_tokens": 594,
+      "completion_tokens_details": {
+        "text_tokens": 21
+      },
+      "prompt_tokens_details": {
+        "image_tokens": 407,
+        "text_tokens": 166,
+        "cached_tokens": 0
+      }
+    }
+  }
+]
